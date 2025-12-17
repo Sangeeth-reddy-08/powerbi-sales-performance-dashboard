@@ -30,6 +30,6 @@ Interactive Power BI dashboard built on the Sample Superstore dataset to analyze
 
 ## Screenshots
 
-![Executive Summary](screenshots/executive-summary.png)
-![Regional & Product](screenshots/regional-product.png)
-![Customer Detail](screenshots/customer-detail.png)
+![Executive Summary](sales-performance-dashboard/executive-summary.png/Screenshot 2025-12-17 182521.png)
+![Regional & Product](sales-performance-dashboard/regional-product.png/Screenshot 2025-12-17 182546.png)
+![Customer Detail](sales-performance-dashboard/customer-details.png/Screenshot 2025-12-17 182613.png)
